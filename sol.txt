@@ -1,0 +1,6 @@
+####### O Problema principal
+
+Cadastrar um cliente e processar seu pagamento -> Cada tarefa é um processo diferente em um sistema distribuido - Cada um pode ser um microserviço
+
+Logo pode acontecer de vc tentar processar um pagamento antes de cadastrar o cliente 
+
